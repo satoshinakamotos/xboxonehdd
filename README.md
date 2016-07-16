@@ -1,3 +1,12 @@
+Note: 2016-07 
+
+- Copy the system update files from the old HDD to local.
+- Wipe the new HDD and make sure there are no partitions on it.
+- Run the xboxonehdd.py script (./xboxonehdd.py sdb) 
+- Then run the ./mkxboxfs.sh scrip to create the partions in the new HDD
+- Unplug the HDD and replug it back in. Now you should see the new partitions.
+
+
 Xbox One HDD Tools
 ==================
 
